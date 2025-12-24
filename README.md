@@ -41,27 +41,5 @@ url: https://datalens.yandex/xib6o7x3oaz2h
 • Yandex DataLens (для создания интерактивного дашборда)
 • GitHub (для хранения и версионирования кода)
 
-СТРУКТУРА ПРОЕКТА
-
-pizza-sales-analysis-2015/
-├── data/
-│   └── pizza_sales_merged.csv
-├── pizza_sales_analysis.ipynb
-├── requirements.txt
-└── README.md
-
-КАК ИСПОЛЬЗОВАТЬ ПРОЕКТ
-
-1. Клонируйте репозиторий:
-   git clone https://github.com/[ваш-логин]/pizza-sales-analysis-2015.git
-
-2. Установите зависимости:
-   pip install -r requirements.txt
-
-3. Запустите Jupyter Notebook:
-   jupyter notebook pizza_sales_analysis.ipynb
-
-4. Для просмотра дашборда перейдите по публичной ссылке в Yandex DataLens
-
 Проект создан в учебных целях.
 Исходный датасет: Pizza Place Sales с Kaggle.
